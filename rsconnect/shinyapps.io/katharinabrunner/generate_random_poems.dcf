@@ -1,0 +1,10 @@
+name: generate_random_poems
+title: enerate a Random Poem with Markov Chains
+username:
+account: katharinabrunner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 407918
+bundleId: 1554678
+url: https://katharinabrunner.shinyapps.io/generate_random_poems/
+when: 1535293362.19741
